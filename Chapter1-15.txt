@@ -1,0 +1,13 @@
+Ruby is friendly and easy
+
+Everything is an object
+example: Car toy
+            Attributes:
+                color: red
+                weight 5
+            Metods:
+                Make sound
+                Drive
+
+The environment configuration and basic theory are in chapter 1 to 15,
+and the test of "Hello world
