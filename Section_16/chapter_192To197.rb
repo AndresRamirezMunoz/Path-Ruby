@@ -16,12 +16,14 @@ File.open("myFisrtfile.txt", "a") do |file|
 end
 puts
 
+
 #rename and delete a file
 File.rename("myFisrtfile.txt", "myFisrtfile1.txt")
 if File.exist?("myFisrtfile1.txt")
   #File.delete("myFisrtfile1.txt")
 end
 puts
+
 
 #the load methos
 #Run on terminal
